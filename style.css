@@ -242,7 +242,7 @@ hr {
   margin-right: auto;
 }
 
-@media (max-width: 1140px) {
+@media (max-width: 375px) {
   h1 {
     margin-top: 2rem;
   }
